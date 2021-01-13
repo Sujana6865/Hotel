@@ -15,7 +15,6 @@
      
         <div>
             <h1  class="p-10 text-white text-2xl">DHARAN KITCHEN</h1>
-            <h1>dharan kitchen</h1>
            
         </div>
         <div>
